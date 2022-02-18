@@ -8,8 +8,14 @@ def lychee():
   
   f.close()
   last = 13. 
-  rnd = random.randint(0, last)
-  print(quotes[rnd])
+  
+  #rnd = random.randint(0, last)
+  #print(quotes[rnd])
+  
+  tmp = random.sample(quotes,2)
+for i in tmp:
+    print(i,end="")
+  
 
 if __name__== "__main__":
   lychee()
