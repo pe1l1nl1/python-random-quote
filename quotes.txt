@@ -1,4 +1,4 @@
-Responsive is better than fast
+f= quotes{Responsive is better than fast
 It’s not fully shipped until it’s fast
 Anything added dilutes everything else
 Practicality beats purity
@@ -11,4 +11,4 @@ Non-blocking is better than blocking
 Favor focus over features
 Avoid administrative distraction
 Design for failure
-Keep it logically awesome
+Keep it logically awesome}
